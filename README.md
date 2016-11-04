@@ -4,3 +4,4 @@ The information and code in these repositories was placed here for my own use bu
 
 I make no guarantees or warrantees of any kind about the suitability of it for any purpose whatsoever.  Should you choose to use the information and/or code then you are responsible for the way it is used or abused - not me.  If you damage / injure equipment, property,  person(s), or anything else it is your fault, not mine.  If your project does not work as intended it is your problem, not mine.
 
+I generally try to respond to question regarding Energia, the MSP430, and MSP432 on 43oh.com.  I do not modify my code to suit others unless it suits me but am interested in bugs if you find one.  Feel free to take, modify, and improve the code as you desire.
